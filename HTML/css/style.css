@@ -1,0 +1,117 @@
+body{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border:5px;
+    border-radius: 8px;
+    border-color:rgb(255, 0, 0);
+    justify-content: flex;
+    
+}
+header{
+    width: 1245px;
+    height: 150px;
+    background-color: rgb(0, 255, 174);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+    
+}
+
+nav{
+    width: 200px;
+    height: 100px;
+    background-color: rgb(154, 4, 74);
+    border: 100px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    display: right;
+    margin-left: 65%;
+    margin-top: 1.9%;
+    
+    
+}
+
+main{
+    width: 1245px;
+    height: 800px;
+    background-color: rgb(255, 166, 0);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    
+}
+
+footer{
+    width: 1245px;
+    height: 150px;
+    background-color: rgb(204, 255, 0);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+
+    
+    
+}
+
+.num_sei{
+    width: 900px;
+    height: 700px;
+    background-color: rgb(98, 0, 255);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+   
+}
+
+aside{
+    width: 300px;
+    height: 700px;
+    background-color: rgb(255, 0, 255);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+
+.Jair_bolsonaro{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(64, 255, 0);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+    
+}
+
+.Lula{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(64, 255, 0);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    display: flex;
+    margin-top: 40px;
+    justify-content: center;
+   
+}
+
+.Calma_meu_calabreso{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(64, 255, 0);
+    border:5px;
+    border-color:rgb(255, 0, 0);
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    
+}
